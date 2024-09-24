@@ -2,9 +2,10 @@
 
 I’m a digital products builder with 2 years of experience turning ideas into reality—everything from brainstorming and sales to coding, testing, deployment, and keeping things running smoothly. I’ve worn all the hats: Product, BD, Dev, QA—you name it!
 
-Passionate about Sovereign Tech (Bitcoin, Lightning, Nostr, FOSS, Home Servers), a bit into Blockchain and Web3, currently enjoy building around LLM!
+Passionate about Sovereign Tech (Bitcoin, Lightning, Nostr, FOSS, Home Server), a bit into Blockchain and Web3, currently enjoy building around LLM!
 
 * 🌍 Based in Bangkok
+* ☂ 2 Years Running Home Lab
 * ✉️ Let’s connect: rabbitrepo@gmail.com
 
 Looking forward to building something amazing together!
