@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitrepo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitrepo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Technologies
 
